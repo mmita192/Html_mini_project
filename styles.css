@@ -1,0 +1,95 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+
+.pimg1 {
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP._sWBcOY9hU5GHOOPGhdHTQHaDt&pid=Api&P=0);
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg2 {
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.Q6ErLHYtUS0usph7mvew_AHaGA&pid=Api&P=0);
+    min-height: 1000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg3 {
+    background-image: url(https://images.fineartamerica.com/images-medium-large/indian-village-couple-jyotsna-chandra.jpg);
+    min-height: 1000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg4 {
+    background-image: url(https://www.indiastockphoto.com/wp-content/uploads/2021/05/Rural-indian-village-at-Andaman.jpg);
+    min-height: 1000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg5 {
+    background-image: url(https://aminus3.s3.amazonaws.com/image/g0001/u00000006/i00003652/f2700f2de4352209029ff4cababa92b2_large.jpg);
+    min-height: 1000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg1,
+.pimg2,
+.pimg3,
+.pimg4,
+.pimg5 {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ptext {
+    position: relative;
+    top: 100%;
+    width: 100%;
+    text-align: left;
+    color: rgb(243, 231, 166);
+    font-size: 27px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+.textBg {
+    background: #313534;
+    color: rgb(20, 190, 224);
+    padding: 20px;
+}
+
+.section {
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.section-light {
+    background-color: #f4f4f4;
+    color: #666;
+}
+
+.section-dark {
+    background-color: #a8bb8c;
+    color: rgb(15, 14, 14);
+}
+
+.section-yellow {
+    background-color: #000;
+    color: yellow;
+    text-align: right;
+    font-size: 10px;
+}
